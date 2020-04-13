@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "event_name": "Metallica Concert",
+            "event_location": "Palace Grounds, Bangalore",
+            "event_type": "Paid Entry",
+            "event_price": "Rs 1900",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/grub-fest.jpg"
+        },
+        {
+            "event_name": "Saree Exhibition",
+            "event_location": "Malleswaram Grounds, Bangalore",
+            "event_type": "Fee Entry",
+            "event_price": "Rs 0",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Wine tasting event",
+            "event_location": "Links Brewery, Bangalore",
+            "event_type": "Paid Entry",
+            "event_price": "Rs 1400",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Startups Meet in Kanteerava Indoor Stadium (paid entry)",
+            "event_location": "Palace Grounds, Bangalore",
+            "event_type": "Paid Entry",
+            "event_price": "Rs 100",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Summer Noon Party",
+            "event_location": "Kumara Park, Bangalore",
+            "event_type": "Paid Entry",
+            "event_price": "Rs 1500",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Rock and Roll nights",
+            "event_location": "Sarjapur Road, Bangalore",
+            "event_type": "Paid Entry",
+            "event_price": "Rs 1050",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Barbecue Fridays",
+            "event_location": "Whitefield, Bangalore",
+            "event_type": "Paid Entry",
+            "event_price": "Rs 1200",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Summer workshop in",
+            "event_location": "Indiranagar, Bangalore",
+            "event_type": "Free Entry",
+            "event_price": "Rs 0",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Impressions & Expressions",
+            "event_location": "MG Road, Bangalore",
+            "event_type": "Free Entry",
+            "event_price": "Rs 0",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        },
+        {
+            "event_name": "Italian carnival",
+            "event_location": "Electronic City, Bangalore",
+            "event_type": "Free Entry",
+            "event_price": "Rs 0",
+            "event_icon": "https://eventscalendartemplates.com/wp-content/uploads/2017/05/Daulat-Ram-College.jpg"
+        }
+    ]
+}

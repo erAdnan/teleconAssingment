@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71775805607",
+    "firebase_url": "https://newpwademo.firebaseio.com",
+    "project_id": "newpwademo",
+    "storage_bucket": "newpwademo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71775805607:android:11a45076b0988a9dd4fb82",
+        "android_client_info": {
+          "package_name": "com.todoappassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71775805607-fq50d70cfck7n3tcfg7b1q3a1e6ipud5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhEWk-bA3AjiWwnU4mztsTfR0ln_O0co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71775805607-fq50d70cfck7n3tcfg7b1q3a1e6ipud5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71775805607-fnkcleakenqjmgvkj7to6gkspdrt4poj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.TodoAppAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
